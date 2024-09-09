@@ -1,0 +1,2 @@
+2024-09-09T17:12:08.735Z - Subscription error: connection not open on send()
+2024-09-09T17:20:42.774Z - Subscription error: connection not open on send()
